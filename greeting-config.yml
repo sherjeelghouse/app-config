@@ -1,4 +1,6 @@
-false
+security:
+  basic:
+    enabled: false
 
 management:
   security:
